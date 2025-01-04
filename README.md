@@ -39,7 +39,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 <div align="center">
     <audio controls>
         <source src="Curiosidade_machine_learning.mp3" type="audio/mpeg">
-Também pode ouvir o audio na seção de aquivos logo acima        
+[Ouça o Podcast no Google Drive https://drive.google.com/file/d/11CA0Ivi-rh_gvmhMNL-CFScQdWXjgA1M/view?usp=sharing      
 
     </audio>
 </div>
