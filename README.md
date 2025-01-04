@@ -38,7 +38,8 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 <div align="center">
     <audio controls>
-        <source src="Curiosidade machine learning.mp3" type="audio/mpeg">
-        
+        <source src="Curiosidade_machine_learning.mp3" type="audio/mpeg">
+Também pode ouvir o audio na seção de aquivos logo acima        
+
     </audio>
 </div>
